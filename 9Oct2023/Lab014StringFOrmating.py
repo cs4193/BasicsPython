@@ -1,6 +1,6 @@
 '''%s is used for strings
     %i is used for integers
-    %f is used for float values'''
+    %f is used for float values '''
 
 str3 = "%i + %i = %i" % (1,2,3)
 print(str3)     # 1 + 2 = 3
