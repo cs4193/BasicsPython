@@ -4,7 +4,8 @@ my_tuple_list.sort()
 
 print("Maximum number in tuple is :",my_tuple_list[len(my_tuple_list)-1])
 print("Minimum number in tuple is :",my_tuple_list[0])
-
+print("Maximum number in tuple is :",max(my_tuple))
+print("Minimum number in tuple is :",min(my_tuple))
 print("************intersection and union of two sets***************")
 set1 = {1, 2, 3, 4, 5}
 set2 = {3, 4, 5, 6, 7}
